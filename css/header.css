@@ -1,0 +1,19 @@
+.dashboard header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	height: 80px;
+	background-color: black;
+	padding: 0 50px;
+}
+
+.dashboard header a {
+	text-decoration: none;
+	color: coral;
+}
+
+.dashboard header a svg {
+	color: white;
+	padding-right: 10px;
+}
